@@ -13,7 +13,6 @@ p {
 p.small {
   font-size: 16px;
 }
-
 a,
 a:hover,
 a:focus,
@@ -22,15 +21,6 @@ a.active {
   color: #18BC9C;
   outline: none;
 }
-
-a.white,
-a.white:hover,
-a.white:focus,
-a.white:active {
-  color: white;
-  outline: none;
-}
-
 h1,
 h2,
 h3,
@@ -97,7 +87,7 @@ header .intro-text .name {
   font-weight: 700;
   font-size: 2em;
 }
-header .intro-text .skills {
+header .intro-text .white-subtitle {
   font-size: 1.25em;
   font-weight: 300;
 }
@@ -109,7 +99,7 @@ header .intro-text .skills {
   header .intro-text .name {
     font-size: 4.75em;
   }
-  header .intro-text .skills {
+  header .intro-text .white-subtitle {
     font-size: 1.75em;
   }
 }
@@ -512,4 +502,16 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+.white-subtitle a {
+    color: white;
+    font-size: 1.25em;
+}
+
+@media (min-width: 768px) {
+    .white-subtitle a {
+        color: white;
+        font-size: 1.75em;
+    }
 }
