@@ -515,3 +515,8 @@ fieldset[disabled] .btn-success.active {
         font-size: 1.75em;
     }
 }
+
+.intro-text form {
+    width:400px; 
+    margin:0 auto;
+}
