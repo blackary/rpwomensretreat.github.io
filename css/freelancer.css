@@ -533,6 +533,18 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 
+table.speakers {
+    font-size: 20px;
+}
+
+select.select {
+    color: black;
+}
+
+.padding {
+    height: 19px;
+}
+
 .white-subtitle a {
     color: white;
     font-size: 1.25em;
