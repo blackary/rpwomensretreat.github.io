@@ -561,3 +561,7 @@ select.select {
     width:400px; 
     margin:0 auto;
 }
+
+.strike {
+    text-decoration: line-through;
+}
