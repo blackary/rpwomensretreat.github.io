@@ -565,3 +565,12 @@ select.select {
 .strike {
     text-decoration: line-through;
 }
+
+.white {
+    color: white;
+}
+
+a.white:hover {
+    color: #EEE;
+    text-decoration: none;
+}
