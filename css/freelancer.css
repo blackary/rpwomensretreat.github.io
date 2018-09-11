@@ -574,3 +574,7 @@ a.white:hover {
     color: #EEE;
     text-decoration: none;
 }
+
+ul.big {
+    font-size: 20px;
+}
