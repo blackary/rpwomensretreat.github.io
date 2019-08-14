@@ -1,10 +1,192 @@
----
-title: Rpwomensretreat.Github.Io
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+# Site settings
+title: RPC Women's Retreat 2019
+email: rpcwomensretreat@gmail.com
+url: https://rpcwomensretreat.com/
+description: "Reformed Presbyterian Church Great-Lakes Gulf Presbytery Women's Retreat"
+keywords: "Christian, Woman, Conference, Presbyterian, Reformed, Retreat"
+subtitle: The Singular Passion of the Reformers
+meta_author: Zachary Blackwood
+
+speaker: Dr. Whitney Gamble
+topic: The Singular Passion of the Reformers
+location: '<a href="https://goo.gl/maps/8JEspYaaLqT2" target="_blank">Elkhart RPC</a>'
+dates: November 1 & 2, 2019
+opening_registration: 5:30pm
+closing_remarks: 2:30pm
+
+welcome_text: "We are really looking forward to this year's retreat, in growing in our love for the Lord, and deeping in our knowledge of His Word, and we hope to see you there!"
+
+bio: 'Dr. Whitney Gamble teaches biblical and theological studies at Providence Christian College and serves as Director of Accreditation and Assessment at The Master’s Seminary. She previously taught at the University of Edinburgh, Scotland, and at Geneva College in Beaver Falls, PA. Dr.Gamble holds a PhD in Systematic and Historical Theology from the University of Edinburgh...'
+
+bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
+
+schedule: '
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <h3>Coming Soon!</h3>
+    </div>
+'
+
+schedule_old: '
+    <div class="col-lg-4 col-lg-offset-2">
+        <h3 class="text-center">Friday</h3>
+        <p>5:30-Registration</p>
+        <p>6:00-Dinner</p>
+        <p>6:50-Welcome &amp; Announcements</p>
+        <p>7:00-<b>Session 1: A Tongue that Praises and Prays</b></p>
+        <p>7:30-<b>Session 2: A Tongue that Maintains a Good Name</b></p>
+        <p>8:15-Organized Activity</p>
+        <p>8:45-Games, Fellowship, and Snacks</p>
+    </div>
+    <div class="col-lg-4">
+        <h3 class="text-center">Saturday</h3>
+        <p>8:00-Breakfast</p>
+        <p>9:00-<b>Session 3: A Tongue that Reconciles and Forgives</b></p>
+        <p>9:30-<b>Session 4: A Tongue that Instructs and Encourages</b></p>
+        <p>10:00-Break</p>
+        <p>10:15-Organized Group Activity</p>
+        <p>10:45-Individual Reflection Time</p>
+        <p>11:45-Psalm Sing</p>
+        <p>12:00-Lunch</p>
+        <p>1:00-<b>Session 5: A Tongue that Counsels</b></p>
+        <p>1:30-Sharing and Prayer</p>
+        <p>2:30-Closing Remarks and Goodbyes</p>
+    </div>
+'
+
+menu: '
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <h3>Coming Soon!</h3>
+    </div>
+'
+
+menu_old: '
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <h3>Friday Dinner</h3>
+            <p>Roasted Pork Loin</p>
+            <p>Mashed Potatoes with Gravy</p>
+            <p>Green Beans</p>
+            <p>Dinner Rolls</p>
+            <p>Pie</p>
+            <p>Full Salad Bar</p>
+        <h3>Saturday Breakfast</h3>
+            <p>Scrambled Eggs</p>
+            <p>Sausage</p>
+            <p>French Toast Bake</p>
+            <p>Bagels/Toast</p>
+            <p>Fruit</p>
+            <p>Coffee/Milk</p>
+        <h3>Saturday Lunch</h3>
+            <p>Hamburgers</p>
+            <p>Potato Salad</p>
+            <p>Carrot and Celery with Dip</p>
+            <p>Jello Cake</p>
+            <p>Full Salad Bar</p>
+            </br/>
+        <p>                            
+            <b>Full Salad Bar:</b> 
+            Lettuce, Spinach, Ham Cubes, Bacon Bits Chick Peas, Tomatoes, Cucumbers, Carrots, Red Onion, Colby Jack Shredded Cheese, Croutons, Cottage Cheese
+        </p>
+    </div>
+'
+
+info: '
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2>Information</h2>
+            <hr class="star-light">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-2">
+            <div class="padding"></div>
+            <p><b>What to Bring</b>: Your own bedding (if you plan to stay at the church), snack or drink to share, Bible, Blue Psalter, pen, notebook, personal items, flashlight and your favorite game, towel.</p>
+            <p><b>Arrival:</b> Check in at the registration table at the back entrance, drop snacks off and settle in.</p>
+            <p><b>Meals:</b> Dinner on Friday and breakfast and lunch on Saturday will be provided. </p>
+            <p><b>Accommodations:</b> 
+                The Elkhart church has been blessed with lots of space! So, in an attempt to make the retreat more affortable, we are hoping to use the church building as our retreat center this year! Classrooms will be available for sleeping space, and the church does have a couple of showers available on site. <br /> <br />
+                If you plan to stay at the church, please plan to bring whatever bedding you would like (sleeping bag, inflatable mattress, sheets, etc.). <br /> <br />
+                Or, if you prefer, you may book your own hotel room just down the road. These are some nearby hotels that we recommend:
+                <ul class="big">
+                    <li>
+                        <a href="https://www.choicehotels.com/indiana/elkhart/comfort-suites-hotels/in243?source=gyxt" target="_blank">Comfort Suites South</a><br />
+                        27838 Co Rd 24 <br />
+                        Elkhart, IN 46517
+                    </li>
+                    <li>
+                        <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/elkhart/ekins/hoteldetail" target="_blank">Holiday Inn Express and Suites Elkhart-South</a> <br />
+                        3610 S Nappanee St <br />
+                        Elkhart, IN 46517
+                    </li>
+                </ul>
+            </p>
+        </div>
+        <div class="col-lg-4 text-center">
+            <h3>Price: TBD</h3>
+            <h3>Questions?</h3>
+            <p>Please direct questions to:</p>
+            <p><a href="mailto:rpcwomensretreat@gmail.com">RPCWomensRetreat@gmail.com</a></p>
+            <p>or</p>
+            <p>
+            Kathryn Dean (765) 337-3431
+            </p>
+            <p>
+            Jessica Dean (574) 520-7655
+            </p>
+            <p>
+            Flo Blackwood (765) 413-5875
+            </p>
+            <p>
+            Ruth Rowe (812) 241-2468
+            </p>
+            <p>
+            Anna Allgaier (765) 714-0868
+            </p>
+            <p><b>Finances an issue?</b> Please talk to your local church about financial assistance.</p>
+        </div>
+    
+    </div>
+'
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: RP Women's Retreat
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/rpcwomensretreat
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 2323 17th St
+  - line: Elkhart, Indiana 46517
+
+# Credits content
+credits: "RPC Women's Retreat is a ministry of <a href='https://immanuelrpc.com' target='_blank'>Immanuel RPC</a> and <a href='http://www.elkhartrpc.org/' target='_blank'>Elkhart RPC</a>"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
