@@ -137,6 +137,10 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar .page-scroll {
+    font-size: 12px;
+}
+
 .navbar .navbar-nav {
     letter-spacing: 1px;
 }
@@ -441,4 +445,17 @@ footer .footer-below {
 
 ul.big {
     font-size: 20px;
+}
+
+.registration_link {
+    font-size: 30px;
+    text-align: center;
+}
+
+form input[type=image] {
+    border-width: 0;
+}
+
+.skills.big {
+    font-size: 36px;
 }

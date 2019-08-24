@@ -20,72 +20,67 @@ bio: 'Dr. Whitney Gamble teaches biblical and theological studies at Providence 
 
 bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
 
-schedule: '
+schedule_coming_soon: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
         <h3>Coming Soon!</h3>
     </div>
 '
 
-schedule_old: '
-    <div class="col-lg-4 col-lg-offset-2">
-        <h3 class="text-center">Friday</h3>
+schedule: "
+    <div class='col-lg-4 col-lg-offset-2'>
+        <h3 class='text-center'>Friday</h3>
         <p>5:30-Registration</p>
         <p>6:00-Dinner</p>
         <p>6:50-Welcome &amp; Announcements</p>
-        <p>7:00-<b>Session 1: A Tongue that Praises and Prays</b></p>
-        <p>7:30-<b>Session 2: A Tongue that Maintains a Good Name</b></p>
+        <p>7:00-<b>Session 1: A Steadfast Focus on God's Word</b></p>
         <p>8:15-Organized Activity</p>
-        <p>8:45-Games, Fellowship, and Snacks</p>
+        <p>8:45-Games, Fellowship, &amp; Snacks</p>
     </div>
-    <div class="col-lg-4">
-        <h3 class="text-center">Saturday</h3>
-        <p>8:00-Breakfast</p>
-        <p>9:00-<b>Session 3: A Tongue that Reconciles and Forgives</b></p>
-        <p>9:30-<b>Session 4: A Tongue that Instructs and Encourages</b></p>
-        <p>10:00-Break</p>
-        <p>10:15-Organized Group Activity</p>
-        <p>10:45-Individual Reflection Time</p>
-        <p>11:45-Psalm Sing</p>
-        <p>12:00-Lunch</p>
-        <p>1:00-<b>Session 5: A Tongue that Counsels</b></p>
-        <p>1:30-Sharing and Prayer</p>
-        <p>2:30-Closing Remarks and Goodbyes</p>
+    <div class='col-lg-4'>
+        <h3 class='text-center'>Saturday</h3>
+        <p>8:00-A Light Breakfast</p>
+        <p>8:30-Organized Activity</p>
+        <p>9:00-<b>Session 2: The Sweetness of God's Word</b></p>
+        <p>10:00-Individual Reflection Time</p>
+        <p>11:00-Brunch</p>
+        <p>12:00-<b>Session 3: The Study of God's Word</b></p>
+        <p>1:00-Q&A with Whitney / Fellowship Time</p>
+        <p>1:45-Sharing and Prayer</p>
+        <p>2:45-Closing Remarks and Goodbyes</p>
+    </div>
+"
+
+menu_coming_soon: '
+    <div class="col-lg-8 col-lg-offset-2 text-center">
+        <h3>Coming Soon!</h3>
     </div>
 '
 
 menu: '
-    <div class="col-lg-8 col-lg-offset-2 text-center">
-        <h3>Coming Soon!</h3>
-    </div>
-'
-
-menu_old: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
         <h3>Friday Dinner</h3>
             <p>Roasted Pork Loin</p>
             <p>Mashed Potatoes with Gravy</p>
             <p>Green Beans</p>
             <p>Dinner Rolls</p>
-            <p>Pie</p>
-            <p>Full Salad Bar</p>
-        <h3>Saturday Breakfast</h3>
+            <p>Salad Bar</p>
+            <p>Dessert</p>
+            <p>Water/Iced Tea</p>
+        <h3>Light Breakfast</h3>
+            <p>Fresh Fruit</p>
+            <p>Granola Bars</p>
+            <p>Yogurt Cups</p>
+            <p>Boiled Eggs</p>
+            <p>Coffee/Water</p>
+        <h3>Brunch</h3>
             <p>Scrambled Eggs</p>
-            <p>Sausage</p>
-            <p>French Toast Bake</p>
-            <p>Bagels/Toast</p>
+            <p>Sausage Links</p>
+            <p>Ham</p>
+            <p>French Toast Casserole</p>
+            <p>Quiche</p>
             <p>Fruit</p>
-            <p>Coffee/Milk</p>
-        <h3>Saturday Lunch</h3>
-            <p>Hamburgers</p>
-            <p>Potato Salad</p>
-            <p>Carrot and Celery with Dip</p>
-            <p>Jello Cake</p>
-            <p>Full Salad Bar</p>
-            </br/>
-        <p>                            
-            <b>Full Salad Bar:</b> 
-            Lettuce, Spinach, Ham Cubes, Bacon Bits Chick Peas, Tomatoes, Cucumbers, Carrots, Red Onion, Colby Jack Shredded Cheese, Croutons, Cottage Cheese
-        </p>
+            <p>Yogurt Bar</p>
+            <p>Coffee/Milk/Juice</p>
     </div>
 '
 
@@ -99,13 +94,15 @@ info: '
     <div class="row">
         <div class="col-lg-4 col-lg-offset-2">
             <div class="padding"></div>
-            <p><b>What to Bring</b>: Your own bedding (if you plan to stay at the church), snack or drink to share, Bible, Blue Psalter, pen, notebook, personal items, flashlight and your favorite game, towel.</p>
-            <p><b>Arrival:</b> Check in at the registration table at the back entrance, drop snacks off and settle in.</p>
-            <p><b>Meals:</b> Dinner on Friday and breakfast and lunch on Saturday will be provided. </p>
+            <p><b>What to Bring</b>: Your own bedding, including linens and blankets (if you plan to stay at the church), Bible, Blue Psalter, pen, notebook, personal items, flashlight and your favorite game, towel.</p>
+            <p><b>Arrival:</b> Check in at the registration table at the back entrance and settle in.</p>
+            <p><b>Meals:</b> Dinner on Friday and a light breakfast and brunch on Saturday will be provided. </p>
             <p><b>Accommodations:</b> 
-                The Elkhart church has been blessed with lots of space! So, in an attempt to make the retreat more affortable, we are hoping to use the church building as our retreat center this year! Classrooms will be available for sleeping space, and the church does have a couple of showers available on site. <br /> <br />
-                If you plan to stay at the church, please plan to bring whatever bedding you would like (sleeping bag, inflatable mattress, sheets, etc.). <br /> <br />
-                Or, if you prefer, you may book your own hotel room just down the road. These are some nearby hotels that we recommend:
+                The Elkhart church has been blessed with lots of space! So, in an attempt to make the retreat more affortable, we are hoping to use the church building as our retreat center this year! Classrooms will be available for sleeping space, and the church does have a couple of showers available on site. However, there will be limited availability. First-come, first-serve.
+
+                <br /> <br />
+
+                If you prefer to stay at a hotel, you may book your own hotel room just down the road. These are some nearby hotels that we recommend:
                 <ul class="big">
                     <li>
                         <a href="https://www.choicehotels.com/indiana/elkhart/comfort-suites-hotels/in243?source=gyxt" target="_blank">Comfort Suites South</a><br />
@@ -121,7 +118,7 @@ info: '
             </p>
         </div>
         <div class="col-lg-4 text-center">
-            <h3>Price: TBD</h3>
+            <h3>Price: $30</h3>
             <h3>Questions?</h3>
             <p>Please direct questions to:</p>
             <p><a href="mailto:rpcwomensretreat@gmail.com">RPCWomensRetreat@gmail.com</a></p>
@@ -145,6 +142,25 @@ info: '
         </div>
     
     </div>
+'
+
+registration: '
+        <span class="registration_link">
+            <a target="_blank" href="https://forms.gle/msiYEEJ3esZGh1jz5">Click here to register!</a>
+        </span>
+        <br /><br />
+        <span>
+        <p>
+            If you have already registered, you can click here to make your payment via PayPal:
+        </p>
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="XWY8J4NZSBFLY">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+        </span>
+        <span class="skills">Or bring cash or check (payable to Immanuel Reformed Presybterian Church) with you to the retreat.</span>
 '
 
 # Google webmaster tools
