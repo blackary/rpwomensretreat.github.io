@@ -1,24 +1,24 @@
 # Site settings
-title: RPC Women's Retreat 2019
+title: RPC Women's Retreat 2021
 email: rpcwomensretreat@gmail.com
 url: https://rpcwomensretreat.com/
-description: "Reformed Presbyterian Church Great-Lakes Gulf Presbytery Women's Retreat"
+description: "Reformed Presbyterian Church Indiana Women's Retreat"
 keywords: "Christian, Woman, Conference, Presbyterian, Reformed, Retreat"
-subtitle: "A Gracious Salvation: Romans 2-3 and the Reformer's Revolutionary Discovery"
+subtitle: "Called to Care: Loving the Least of These"
 meta_author: Zachary Blackwood
 
-speaker: Dr. Whitney Gamble
-topic: The Singular Passion of the Reformers
+speaker: Anna Allgaier
+topic: "Called to Care: Loving the Least of These"
 location: '<a href="https://goo.gl/maps/8JEspYaaLqT2" target="_blank">Elkhart RPC</a>'
-dates: November 1 & 2, 2019
+dates: November 12-13, 2021
 opening_registration: 5:30pm
 closing_remarks: 2:30pm
 
 welcome_text: "We are really looking forward to this year's retreat, in growing in our love for the Lord, and deepening in our knowledge of His Word. We hope to see you there!"
 
-bio: 'Dr. Whitney Gamble teaches biblical and theological studies at Providence Christian College and serves as Director of Accreditation and Assessment at The Master’s Seminary. She previously taught at the University of Edinburgh, Scotland, and at Geneva College in Beaver Falls, PA. Dr. Gamble holds a PhD in Systematic and Historical Theology from the University of Edinburgh...'
+bio: 'Anna Allgaier...'
 
-bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
+#bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
 
 schedule_coming_soon: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -32,19 +32,18 @@ schedule: "
         <p>5:30-Registration</p>
         <p>6:00-Dinner</p>
         <p>6:50-Welcome &amp; Announcements</p>
-        <p>7:00-<b>Session 1: God's Righteousness</b></p>
+        <p>7:00-<b>Session 1</b></p>
         <p>8:15-Organized Activity</p>
         <p>8:45-Games, Fellowship, &amp; Snacks</p>
     </div>
     <div class='col-lg-4'>
         <h3 class='text-center'>Saturday</h3>
         <p>8:00-Light Breakfast</p>
-        <p>8:30-Organized Activity</p>
-        <p>9:00-<b>Session 2: God's Redemption</b></p>
+        <p>9:00-<b>Session 2</b></p>
         <p>10:00-Individual Reflection Time</p>
         <p>11:00-Brunch</p>
-        <p>12:00-<b>Session 3: God's Requirement</b></p>
-        <p>1:00-Q&A with Whitney / Fellowship Time</p>
+        <p>12:00-<b>Session 3</b></p>
+        <p>1:00-Fellowship Time</p>
         <p>1:45-Sharing and Prayer</p>
         <p>2:45-Closing Remarks and Goodbyes</p>
     </div>
@@ -59,7 +58,7 @@ menu_coming_soon: '
 menu: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
         <h3>Friday Dinner</h3>
-            <p>Roasted Pork Loin</p>
+            <p>Chicken</p>
             <p>Mashed Potatoes with Gravy</p>
             <p>Green Beans</p>
             <p>Dinner Rolls</p>
@@ -76,7 +75,7 @@ menu: '
             <p>Scrambled Eggs</p>
             <p>Sausage Links</p>
             <p>Ham</p>
-            <p>French Toast Casserole</p>
+            <p>French Toast Sticks</p>
             <p>Quiche</p>
             <p>Fruit</p>
             <p>Yogurt Bar</p>
@@ -135,7 +134,7 @@ info: '
             Jessica Dean (574) 520-7655
             </p>
             <p>
-            Flo Blackwood (765) 413-5875
+            Addie Bell (765) 438-6198
             </p>
             <p>
             Ruth Rowe (812) 241-2468
