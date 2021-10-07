@@ -16,9 +16,9 @@ closing_remarks: 2:30pm
 
 welcome_text: "We are really looking forward to this year's retreat, in growing in our love for the Lord, and deepening in our knowledge of His Word. We hope to see you there!"
 
-bio: 'Anna Allgaier...'
+bio: "Anna Allgaier is a believer in Jesus Christ, wife, mother, and human rights activist. Anna grew up in Lafayette, Indiana and graduated from Purdue University, earning dual degrees in English and Human Services. During her time studying Social Work in college, Anna became increasingly burdened for the vulnerable in our world, and convicted that abortion is the world’s greatest human rights injustice..."
 
-#bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
+bio_link: '<a href="#portfolioModal-1" clasks="portfolio-link" data-toggle="modal">Read more</a>' 
 
 schedule_coming_soon: '
     <div class="col-lg-8 col-lg-offset-2 text-center">
